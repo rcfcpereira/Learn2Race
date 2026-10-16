@@ -1,0 +1,9 @@
+[submodule "Learn2Race-PrototypeA"]
+	path = Learn2Race-PrototypeA
+	url = https://github.com/rcfcpereira/Learn2Race-PrototypeA.git
+[submodule "Learn2Race-PrototypeB"]
+	path = Learn2Race-PrototypeB
+	url = https://github.com/rcfcpereira/Learn2Race-PrototypeB.git
+[submodule "Learn2Race-PC-Control"]
+	path = Learn2Race-PC-Control
+	url = https://github.com/rcfcpereira/Learn2Race-PC-Control.git
