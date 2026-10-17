@@ -44,6 +44,8 @@ git submodule update --init --recursive
 
 On a robot, clone only that robot's repository (see its `INSTALL.md`).
 
+On Windows, some file paths in the robot repositories are long; if a checkout fails, run `git config --global core.longpaths true` first, or clone into a short folder such as `C:\src`.
+
 ## Getting started
 
 1. **Network.** Put the robots and the PC on one network. The project uses a TP-Link TL-WR802N travel router: the robots on Ethernet with fixed addresses, and the PC on Wi-Fi.
